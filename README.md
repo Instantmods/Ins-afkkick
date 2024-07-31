@@ -7,8 +7,8 @@ Features
 4. Server and Client Integration: Utilizes server and client scripts to monitor and manage player activity efficiently.
 
 Installation
-Place the Ins_afkkick folder in your resources directory.
-Add start Ins_afkkick to your server.cfg file.
+1. Place the Ins_afkkick folder in your resources directory.
+2. Add start Ins_afkkick to your server.cfg file. 
 
 Configuration:
 Adjust the afkTimeLimit variable in server.lua to set the desired AFK time limit (default is 600 seconds or 10 minutes).
